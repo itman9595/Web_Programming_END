@@ -1,0 +1,29 @@
+body {
+}
+
+#book_cover {
+	top:10px;
+	position: relative;	
+}
+
+p {
+	color: white;
+}
+
+.container {
+	padding-top:180px;
+	position: relative;
+	margin: 0 auto;
+	width: 500px;
+	background-color: #336699;
+}
+
+.book {
+	top: -170px;
+	left: 10px;
+	position: relative;
+}
+
+#description {
+	max-width: 90%;
+}

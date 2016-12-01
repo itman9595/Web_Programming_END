@@ -1,0 +1,46 @@
+a {
+  text-decoration: none; }
+
+p {
+  top: 20px;
+  position: relative;
+  text-align: center;
+  color: white; }
+
+.container {
+  top: -20px;
+  position: relative;
+  margin: 0 auto;
+  width: 800px;
+  height: 1000px; }
+
+#pretext {
+  background-color: #990000;
+  padding: 5px 0px; }
+
+.tabs form {
+  display: inline-block; }
+  .tabs form input {
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-right: 5px; }
+
+.books div {
+  display: inline-block;
+  width: 300;
+  height: 700;
+  background-color: Linen;
+  border: ridge;
+  padding: 10px;
+  margin-right: 20px; }
+  .books div #description {
+    padding: 5px;
+    border: ridge;
+    width: 200px;
+    height: 200px;
+    overflow: scroll; }
+  .books div p {
+    text-align: left;
+    color: black; }
+
+/*# sourceMappingURL=style.css.map */
