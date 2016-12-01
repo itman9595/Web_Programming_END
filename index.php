@@ -77,7 +77,7 @@
 								array_push($prices, $row["price"]);
 						    }
 					}
-					echo "</div><br>";
+					echo "</div>";
 					
 					echo "<div class='books' align='center'>";
 					
